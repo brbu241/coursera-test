@@ -11,3 +11,4 @@ document.write("<br>" +x+"+" +y+ "=" +(x+y) ); //結果
 //     document.write("負啦")
 // }
 
+const a1 = 10;
